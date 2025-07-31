@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# Client
+client/node_modules/
+client/dist/
+client/.env
+client/.DS_Store
+
+# Server
+server/node_modules/
+server/.env
+
+# IDEs / OS
+.vscode/
+.DS_Store
+Thumbs.db
